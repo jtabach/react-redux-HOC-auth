@@ -10,5 +10,5 @@ export default () => {
         <li>1 Cup Swag</li>
       </ul>
     </div>
-  )
+  );
 }
